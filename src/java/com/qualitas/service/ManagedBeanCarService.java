@@ -1,6 +1,6 @@
 package com.qualitas.service;
 
-import com.qualitas.entities.Car;
+import com.qualitas.modelo.entities.Car;
 import javax.faces.bean.ApplicationScoped;
 import javax.faces.bean.ManagedBean;
 import java.util.ArrayList;

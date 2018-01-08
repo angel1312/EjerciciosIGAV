@@ -1,6 +1,6 @@
 package com.qualitas.mbeans;
 
-import com.qualitas.entities.Car;
+import com.qualitas.modelo.entities.Car;
 import java.util.ArrayList;
 import java.util.List;
 import javax.annotation.PostConstruct;

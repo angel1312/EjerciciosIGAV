@@ -1,7 +1,7 @@
 package com.qualitas.mbeans;
  
 import com.qualitas.service.ManagedBeanCarService;
-import com.qualitas.entities.Car;
+import com.qualitas.modelo.entities.Car;
 import java.io.Serializable;
 import java.util.List;
 import javax.annotation.PostConstruct;

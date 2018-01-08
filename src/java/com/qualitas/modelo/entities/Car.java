@@ -1,4 +1,4 @@
-package com.qualitas.entities;
+package com.qualitas.modelo.entities;
 
 public class Car {
     
